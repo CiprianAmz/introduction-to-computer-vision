@@ -2,6 +2,6 @@
 
 set -e
 
-python3 -m venv intro-in-cv
-source intro-in-cv/bin/activate
+python3 -m venv intro-to-cv
+source intro-to-cv/bin/activate
 pip3 install -r requirements.txt

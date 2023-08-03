@@ -2,4 +2,4 @@
 
 set -e
 
-rm -r intro-in-cv
+rm -r intro-to-cv
